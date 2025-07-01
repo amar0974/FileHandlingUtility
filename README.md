@@ -38,3 +38,5 @@ Developed as part of the Codtech Internship, this utility serves as a practical 
 ##OUTPUT##
 
 ![Image](https://github.com/user-attachments/assets/5626c809-9af1-4d0d-b8f0-850480a2222e)
+
+![Image](https://github.com/user-attachments/assets/a7946c1d-dfa9-455c-b4b3-9d08cfaf55d7)
