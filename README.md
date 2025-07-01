@@ -35,5 +35,6 @@ Developed as part of the Codtech Internship, this utility serves as a practical 
 - Managing log files or configuration files for applications.
 - Learning file I/O operations in programming languages like Python, Java, or C++.
 
+##OUTPUT##
 
-
+![Image](https://github.com/user-attachments/assets/5626c809-9af1-4d0d-b8f0-850480a2222e)
